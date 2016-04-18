@@ -196,6 +196,7 @@ public class commande extends javax.swing.JFrame {
 
     private void init(){
         System.out.println("ibnit");
+        System.out.println("koko");
     }
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
 
